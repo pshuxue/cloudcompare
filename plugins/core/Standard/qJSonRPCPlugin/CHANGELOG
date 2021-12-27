@@ -1,0 +1,14 @@
+gJsonRPCPlugin versions
+
+2020-12-29 1.2
+add option <parent> in command <open> to specify position in object tree
+
+2020-12-29 1.1
+add option <name> in command <open> to specify name caption in CC treeview 
+Fix compilation with the stereo version of CC
+
+2020-12-29 1.0
+add command <version> to get version information
+
+2020-11-32
+initial version that is submodule of CC and compiles

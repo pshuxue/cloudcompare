@@ -1,0 +1,24 @@
+{
+	"type" : "Standard",
+	"name" : "Json RPC (Standard Plugin)",
+	"icon" : ":/CC/plugin/JsonRPCPlugin/images/icon.png",
+	"description": "This is a Json RPC interface for CloudCompare.",
+	"authors" : [
+		{
+			"name" : "theAdib",
+			"email" : "theadib@gmail.com"
+		}
+	],
+	"maintainers" : [
+		{
+			"name" : "theAdib",
+			"email" : "theadib@gmail.com"
+		}
+	],
+	"references" : [
+		{
+			"text" : "",
+			"url" : ""
+		}
+	]
+}
